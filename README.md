@@ -1,3 +1,4 @@
 # Magna-demo
 This is my first git repo
-Author - Snehal
+<br>
+Author - Snehal Bankar
